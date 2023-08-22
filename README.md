@@ -14,7 +14,7 @@
 | 200 ohm Ressitors                       | 4 |
 |                                         |   |
 
-In order to increase or decrease the mount of inputs, adjust the amount of 200 ohm Ressitors, 100k potentiometers and p2 female jacks 
+In order to increase or decrease the quantity of inputs, adjust the amount of 200 ohm Ressitors, 100k potentiometers and p2 female jacks 
 
 ## For mono ASM
 ### Result:
