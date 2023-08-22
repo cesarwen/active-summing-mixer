@@ -1,7 +1,7 @@
 # Active Summing Mixer (ASM)
 
-<img src="https://github.com/cesarwen/active-summing-mixer/blob/main/final_front.jpeg?raw=true">
-<img src="https://github.com/cesarwen/active-summing-mixer/blob/main/final_top.jpeg?raw=true">
+<img src="https://github.com/cesarwen/active-summing-mixer/blob/main/final_front.jpeg?raw=true" width="350" height="350">
+<img src="https://github.com/cesarwen/active-summing-mixer/blob/main/final_top.jpeg?raw=true" width="350" height="350">
 
 ## Bill of materials:
 
