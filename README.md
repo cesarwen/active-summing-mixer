@@ -15,3 +15,7 @@
 |                                         |   |
 
 In order to increase or decrease the mount of inputs, adjust the amount of 200 ohm Ressitors, 100k potentiometers and p2 female jacks 
+
+<img src="https://github.com/cesarwen/active-summing-mixer/blob/main/mono/pcb.png?raw=true">
+
+
