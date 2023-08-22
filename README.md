@@ -1,4 +1,7 @@
-# active-summing-mixer
+# Active Summing Mixer (ASM)
+
+<img src="https://github.com/cesarwen/active-summing-mixer/blob/main/final_front.jpeg?raw=true">
+<img src="https://github.com/cesarwen/active-summing-mixer/blob/main/final_top.jpeg?raw=true">
 
 ## Bill of materials:
 
@@ -16,6 +19,10 @@
 
 In order to increase or decrease the mount of inputs, adjust the amount of 200 ohm Ressitors, 100k potentiometers and p2 female jacks 
 
-<img src="https://github.com/cesarwen/active-summing-mixer/blob/main/mono/pcb.png?raw=true">
+## For mono ASM
+<!--  <img src="https://github.com/cesarwen/active-summing-mixer/blob/main/mono/pcb.png?raw=true"> -->
+<!--  <img src="https://github.com/cesarwen/active-summing-mixer/blob/main/mono/schematic.png?raw=true"> -->
 
-
+## For stereo ASM
+<!--  <img src="https://github.com/cesarwen/active-summing-mixer/blob/main/stereo/pcb.png?raw=true"> -->
+<!--  <img src="https://github.com/cesarwen/active-summing-mixer/blob/main/stereo/schematic.png?raw=true"> -->-
