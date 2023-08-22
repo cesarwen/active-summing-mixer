@@ -16,6 +16,8 @@
 
 In order to increase or decrease the quantity of inputs, adjust the amount of 200 ohm Ressitors, 100k potentiometers and p2 female jacks 
 
+100k potentiometers (with 6 pins) are only needed for stereo, in case of mono should be 100k potentiometers (with 3 pins)
+
 ## For mono ASM
 ### Result:
 <img src="https://github.com/cesarwen/active-summing-mixer/blob/main/final_front.jpeg?raw=true" width="350" height="350">
