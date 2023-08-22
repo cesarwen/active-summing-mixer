@@ -17,11 +17,17 @@
 In order to increase or decrease the mount of inputs, adjust the amount of 200 ohm Ressitors, 100k potentiometers and p2 female jacks 
 
 ## For mono ASM
+### Result:
 <img src="https://github.com/cesarwen/active-summing-mixer/blob/main/final_front.jpeg?raw=true" width="350" height="350">
 <img src="https://github.com/cesarwen/active-summing-mixer/blob/main/final_top.jpeg?raw=true" width="350" height="350">
-<!--  <img src="https://github.com/cesarwen/active-summing-mixer/blob/main/mono/pcb.png?raw=true"> -->
-<!--  <img src="https://github.com/cesarwen/active-summing-mixer/blob/main/mono/schematic.png?raw=true"> -->
+(Yes I need to 3d print the rest of the case)
+
+### Schematics and PCB Layouts
+<img src="https://github.com/cesarwen/active-summing-mixer/blob/main/mono/pcb.png?raw=true">
+<img src="https://github.com/cesarwen/active-summing-mixer/blob/main/mono/schematic.png?raw=true">
 
 ## For stereo ASM
-<!--  <img src="https://github.com/cesarwen/active-summing-mixer/blob/main/stereo/pcb.png?raw=true"> -->
-<!--  <img src="https://github.com/cesarwen/active-summing-mixer/blob/main/stereo/schematic.png?raw=true"> -->-
+
+### Schematics and PCB Layouts
+<img src="https://github.com/cesarwen/active-summing-mixer/blob/main/stereo/pcb.png?raw=true">
+<img src="https://github.com/cesarwen/active-summing-mixer/blob/main/stereo/schematic.png?raw=true">
